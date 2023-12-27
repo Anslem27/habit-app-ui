@@ -1,0 +1,1 @@
+ /Users/barnatest/flutter\ projects/growing/.dart_tool/flutter_build/45ce334a42fb9aabb903b891c74c546b/native_assets.yaml: 
