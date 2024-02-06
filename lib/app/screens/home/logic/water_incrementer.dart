@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:growing/app/theme/app_theme.dart';
 
 class HydrateStats extends StatefulWidget {
-  const HydrateStats({Key? key}) : super(key: key);
+  const HydrateStats({super.key});
 
   @override
   _HydrateStatsState createState() => _HydrateStatsState();
@@ -143,7 +143,7 @@ class _HydrateStatsState extends State<HydrateStats> {
                     ),
                   ),
                 );
-              }).toList(),
+              }),
             ],
           ),
         ],

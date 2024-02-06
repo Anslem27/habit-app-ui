@@ -3,7 +3,7 @@ import 'package:intl/intl.dart';
 import 'package:growing/app/theme/app_theme.dart';
 
 class GrowPageView extends StatefulWidget {
-  const GrowPageView({Key? key}) : super(key: key);
+  const GrowPageView({super.key});
 
   @override
   State<GrowPageView> createState() => _GrowPageViewState();

@@ -69,9 +69,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/flutter_lints-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_staggered_grid_view",
@@ -93,7 +93,7 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/http-1.1.2",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/http-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -141,21 +141,21 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider-2.1.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_android-2.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_linux",
@@ -165,9 +165,9 @@
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_windows",
@@ -183,13 +183,13 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/platform-3.1.3",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/platform-3.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.7",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -255,15 +255,15 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/win32-5.1.1",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/win32-5.2.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/xdg_directories-1.0.3",
+      "rootUri": "file:///Users/barnatest/.pub-cache/hosted/pub.dev/xdg_directories-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "growing",
@@ -272,7 +272,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2023-12-27T10:02:53.520537Z",
+  "generated": "2024-02-06T07:52:09.584035Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }

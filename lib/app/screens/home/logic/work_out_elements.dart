@@ -137,7 +137,7 @@ class _WorkOutElementsState extends State<WorkOutElements> {
                           )
                         ],
                       ))
-                  .toList()
+                  
             ],
           ),
         ],

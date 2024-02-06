@@ -10,7 +10,7 @@ import 'home/views/home_view.dart';
 import 'profile/views/profile_view.dart';
 
 class NavigationScreen extends StatefulWidget {
-  const NavigationScreen({Key? key}) : super(key: key);
+  const NavigationScreen({super.key});
 
   @override
   _NavigationScreenState createState() => _NavigationScreenState();

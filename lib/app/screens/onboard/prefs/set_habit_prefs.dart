@@ -171,7 +171,7 @@ class _SetHabitPrefeerencesState extends State<SetHabitPrefeerences> {
                               ),
                             ),
                           );
-                        }).toList(),
+                        }),
                         Container(
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(50),
@@ -382,7 +382,7 @@ class _SetHabitPrefeerencesState extends State<SetHabitPrefeerences> {
                               ),
                             ),
                           );
-                        }).toList(),
+                        }),
                         Container(
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(50),

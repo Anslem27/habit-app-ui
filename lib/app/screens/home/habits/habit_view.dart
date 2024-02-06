@@ -15,7 +15,7 @@ import '../logic/work_out_elements.dart';
 
 class HabitView extends StatefulWidget {
   final Habit habit;
-  const HabitView({Key? key, required this.habit}) : super(key: key);
+  const HabitView({super.key, required this.habit});
 
   @override
   State<HabitView> createState() => _HabitViewState();
