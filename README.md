@@ -1,5 +1,7 @@
 # growing
 
+> Check the `growing-ios-swiftui` for swift-ui components.
+
 _Become the best version of yourself._
 
 <h1 align="center" >
