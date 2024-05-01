@@ -1,6 +1,6 @@
 # growing
 
-> Check the `growing-ios-swiftui` for swift-ui components.
+<!-- > Check the `growing-ios-swiftui` for swift-ui components. -->
 
 _Become the best version of yourself._
 
